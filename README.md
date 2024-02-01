@@ -14,4 +14,11 @@ A responsive and user-friendly Netflix-Clone page with a slider for easy navigat
 
 1. Clone the repository:
 
-``` bash :-  ```
+``` bash :-  https://github.com/meetsavani07/Netflix-Clone.git```
+
+This Is Final Result Of Clone
+
+![Screenshot (282)](https://github.com/meetsavani07/Netflix-Clone/assets/146066645/113e513b-3b47-4f31-bd61-88b6fc57e70c)
+
+![Screenshot (283)](https://github.com/meetsavani07/Netflix-Clone/assets/146066645/6a10046a-edb9-459c-96e2-6e56b69040e3)
+
